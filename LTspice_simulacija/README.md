@@ -3,7 +3,7 @@
 Ovaj folder sadrži fajlove za LTspice simulaciju Clock Oscilatora.
 
 ## Sadržaj
-- Draft1.asc — LTspice šema
+- ClockOscilator.asc — LTspice šema
 - TL072.lib — biblioteka za korišćeni model operacionog pojačavača
 
 ## Kako pokrenuti
