@@ -1,11 +1,10 @@
 # LTspice_simulacija
 
-This folder contains LTspice simulation files for the Clock-Oscillator project.
+Ovaj folder sadrži fajlove za LTspice simulaciju Clock Oscilatora.
 
-## Contents
-- *.asc / *.asy — LTspice schematic files
+## Sadržaj
+- *.asc / *.asy — LTspice šema
 - *.net / *.raw — simulation outputs (if any)
-- Notes.md — any experiment notes (optional)
 
 ## How to run
 1. Open the `.asc` schematic in LTspice (http://www.analog.com/ltspice).
